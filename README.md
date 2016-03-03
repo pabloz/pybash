@@ -1,8 +1,8 @@
 # pybash
 
-## Some tiny Bash helper functions for working with Python modules
+## Bash functions to work with Python modules
 
-/!\ WIP: Half-tested, only on Python 2.7 / Ubuntu. Expect tracebacks.
+:warning: Work in progress: Half-tested, only on Python 2.7 / Ubuntu. Expect tracebacks.
 
 May not work for you at this point, and there may be something better already
 available out there.
